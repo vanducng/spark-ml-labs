@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+pyspark = "*"
+pandas = "*"
+numpy = "*"
+hyperopt = "*"
+scikit-learn = "*"
+lightgbm = "*"
+imblearn = "*"
+
+[requires]
+python_version = "3.7"
