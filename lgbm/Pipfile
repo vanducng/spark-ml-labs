@@ -14,6 +14,11 @@ hyperopt = "*"
 scikit-learn = "*"
 lightgbm = "*"
 imblearn = "*"
+mlflow = "*"
+scikit-plot = "*"
+matplotlib = "*"
+seaborn = "*"
+shap = "*"
 
 [requires]
 python_version = "3.7"
